@@ -1,0 +1,50 @@
+label {
+    display: block !important;
+}
+
+body{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-optical-sizing: auto;
+font-weight: normal;
+font-style: normal;
+font-variation-settings:
+"wdth" 100;
+background: #ffffff;
+}
+
+form{
+    width: 100% !important;
+    max-width: 600px !important;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    flex-direction: column;
+    /* width: 100% !important;
+    max-width: 600px !important; */
+}
+
+input[type="text"], 
+input[type="password"], 
+input[type="email"],
+input[type="checkbox"] {
+padding: 8px;
+font-size: 1em;
+width: 100% !important;
+max-width: 600px !important;
+}
+
+button{
+    background-color: #6523d4 !important;
+}
+
+button:hover{
+    background-color: #4e1aa9 !important;
+    border-color: #4e1aa9 !important;
+}
+
+button[type="submit"] {
+    color: whitesmoke;
+    width: 100%;
+    border: none;
+}

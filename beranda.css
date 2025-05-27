@@ -1,0 +1,42 @@
+.update-icon, .delete-icon, .cart-icon {
+    color: black;
+}
+
+.pagination {
+    color: black !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+nav {
+    background: linear-gradient(90deg, #46176E 0%, #692B9C 50%, #A043E7 100%);
+}
+
+.nav-link, .offcanvas-title{
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.offcanvas-body, .offcanvas-header{
+    background: linear-gradient(90deg, #46176E 0%, #692B9C 50%, #A043E7 100%);
+}
+
+.navbar-brand:hover{
+    color:#bb9bd4 !important;
+}
+
+.nav-link:hover{
+     color:#bb9bd4 !important;
+}
+
+.nav-link.active{
+     color:#bb9bd4 !important;
+     font-weight:600;
+}
+
+.delete-icon {
+    color: black !important;
+}
